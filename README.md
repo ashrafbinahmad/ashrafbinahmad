@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm M. Asraf</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Malik Deenar Academy Website](mdia.in)
+- 🔭 I’m currently working on [Malik Deenar Academy Website](https://mdia.in/)
 
 - 👯 I’m looking to collaborate on **React Projects**
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React js, Next js, Nest js**
 
-- 📫 How to reach me **wa.me/918086519792**
+- 📫 How to reach me **ashrafp216@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
