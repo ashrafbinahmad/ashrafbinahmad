@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <h3 align="center">OPEN TO GET HIRED FOR FULL TIME JOBS</h3>
 
-- 🔭 I’m currently working on [Spikeone E-Commerce Website](https://spikeone.vercel.app/)
+- 🔭 I’m currently looking for full time react js job vacancies.
 
 - 👯 I’m looking to collaborate on **React Projects**
 
