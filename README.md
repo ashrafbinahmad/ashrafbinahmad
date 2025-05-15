@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm M. Asraf</h1>
+<h1 align="center">Hi 👋, I'm Muhammed Asraf</h1>
 <h3 align="center">A passionate fullstack web developer from India</h3>
 <h3 align="center">OPEN TO GET HIRED FOR FULL TIME JOBS</h3>
 
