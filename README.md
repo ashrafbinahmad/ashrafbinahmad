@@ -12,9 +12,6 @@
 
 - 📫 How to reach me **ashrafp216@gmail.com**
 
-<h3 align="left">Projects:</h3>
-- [https://sibaq.in/](https://sibaq.in/)
-  - Full stack
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
