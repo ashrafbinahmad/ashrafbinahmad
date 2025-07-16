@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Muhammed Asraf</h1>
-<h3 align="center">A passionate fullstack web developer from India</h3>
-<h3 align="center">OPEN TO GET HIRED FOR FULL TIME JOBS</h3>
+<h1>Hi 👋, I'm Muhammed Asraf</h1>
+<h3>A passionate fullstack web developer from India</h3>
+<h3>OPEN TO GET HIRED FOR FULL TIME JOBS</h3>
 
 - 🔭 I’m currently looking for full time react js job vacancies.
 
