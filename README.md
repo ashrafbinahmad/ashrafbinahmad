@@ -12,6 +12,13 @@
 
 - 📫 How to reach me **ashrafp216@gmail.com**
 
+<h1>Contributions</h1>
+
+- Open-source involvement: Reported UI issues on Photopea, offering detailed feedback (e.g. request for font size increase) 
+GitHub.
+- Technical articles: Authored a Medium article introducing create-fetch-hooks, showcasing thought leadership and packaging on NPM 
+Medium.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
