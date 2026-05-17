@@ -1,34 +1,96 @@
-<h1>Hi 👋, I'm Muhammed Asraf</h1>
-<h3>A passionate fullstack web developer from India</h3>
-<h3>OPEN TO GET HIRED FOR FULL TIME JOBS</h3>
+<div align="center">
 
-- 🔭 I’m currently looking for full time react js job vacancies.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Muhammed%20Asraf&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=React%20%2F%20Next.js%20Frontend%20Developer&descAlignY=75&descColor=a78bfa" width="100%"/>
 
-- 👯 I’m looking to collaborate on **React Projects**
+</div>
 
-- 👨‍💻 All of my projects are available at [https://ashrafpookkodan.vercel.app/](https://ashrafpookkodan.vercel.app/)
+<br/>
 
-- 💬 Ask me about **React js, Next js, Nest js**
+> **I turn complex product ideas into fast, polished interfaces teams can trust.**
 
-- 📫 How to reach me **ashrafp216@gmail.com**
+Frontend developer with **3+ years** of production experience shipping Next.js apps, real-time dashboards, SaaS products, and integration-heavy user flows — with React and TypeScript as my native language.
 
-<h1>Other Contributions</h1>
+---
 
-- Open-source involvement: Reported UI issues on Photopea, offering detailed feedback (e.g. request for font size increase) 
-GitHub.
-- Technical articles: Authored a Medium article introducing create-fetch-hooks, showcasing thought leadership and packaging on NPM 
-Medium.
+## 🏢 Where I've Shipped
 
+### Storygame · *React JS / Next JS Frontend Developer* · Aug 2025 – Present
+`Trivandrum, Kerala, India`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ashraf_binahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashraf_binahmad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammed asraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed asraf" height="30" width="40" /></a>
-<a href="https://fb.com/ashrafbinahmadp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashrafbinahmadp" height="30" width="40" /></a>
-<a href="https://instagram.com/ashraf_binahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashraf_binahmad" height="30" width="40" /></a>
-</p>
+- **Exo Exchange** — Full-featured crypto trading platform (Spot, Futures, Margin, Copy Trading, Bots) built with React 19, Vite 7, Zustand, and TanStack Query. Integrated TradingView Charting Library, live WebSocket price feeds, order books, portfolio P&L, advanced orders, 2FA, passkeys, and KYC flows.
+- **Raze Vault** — Multi-chain RWA tokenization platform across Ethereum, Avalanche, XDC, and Redbelly with Circle CCTP cross-chain bridging, Dynamic Labs wallet auth, JWT/Axios interceptor flows, and Plaid bank verification for US investor KYC.
+- **ExDex** — DEX featuring AI trading signal APIs, ML-generated buy/sell predictions, NFT marketplace, Three.js UI, GSAP animations, and i18n across 11 languages.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Spectron · *Frontend Developer* · Mar 2024 – Jul 2025
+`Dubai, UAE (Remote)`
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashrafbinahmad&show_icons=true&locale=en&layout=compact" alt="ashrafbinahmad" /></p>
+- **khyaty.com** — Complete tailor-side UI in Next.js with booking flows, measurement management, and order tracking.
+- **santobatailors.ae** — Responsive, SEO-optimized, CMS-enabled marketing site.
+
+### Litmus Branding · *Frontend Developer* · Jun 2022 – Feb 2024
+`Remote`
+
+- Built CMS-enabled client websites with responsive, SEO-optimized frontends integrated with headless CMS platforms.
+
+---
+
+## 🚀 Projects I've Built
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**PeerHop**](https://peerhop.in) | Peer-to-peer LAN file transfer hitting 65 MB/s — shipped to Microsoft Store, NPM & GitHub Releases | Go · Wails v2 · React · WebSocket |
+| [**Zawajee.life**](https://zawajee.life) | SaaS for premium digital wedding invitations with animated themes, RSVP flows, and Cashfree payments | Next.js · Supabase · Framer Motion |
+| [**OSrunner**](https://os-runner.peerhop.in) | Browser-based x86 VM that boots Linux & Windows client-side via v86 WASM, with IndexedDB state snapshots | React 19 · WebAssembly · v86 |
+| [**create-fetch-hooks**](https://npmjs.com/package/create-fetch-hooks) | NPM package: generates React API hooks for GET/POST/PUT/DELETE with unified errors, headers, token refresh | TypeScript · React |
+| [**quickwire**](https://npmjs.com/package/quickwire) | NPM package: auto-generates Next.js API routes + TypeScript client functions from backend functions | TypeScript · Next.js |
+| [**WapClip**](/) | Native Go clipboard daemon tunneling phone-to-PC clipboard data through WhatsApp — 15-30 MB RAM, 0% CPU idle | Go · whatsmeow · SQLite |
+| [**Sibaq 2023**](https://sibaq.in) | Next.js SSR + NestJS resource management system with RBAC, dynamic dashboards, and DigitalOcean/Nginx deployment | Next.js · NestJS · PostgreSQL |
+
+---
+
+## 🛠 Tech I Work With
+
+**Languages**
+`TypeScript` `JavaScript` `Go` `HTML5` `CSS3`
+
+**Frontend**
+`React 19` `Next.js 14` `Vite` `Tailwind CSS` `Redux Toolkit` `Zustand` `TanStack Query` `Framer Motion` `GSAP` `i18next`
+
+**Next.js Expertise**
+`App Router` `SSR` `SSG` `ISR` `API Routes` `Middleware` `Dynamic Routing` `SEO Optimization` `Headless CMS Integration`
+
+**Data Visualization**
+`Recharts` `Chart.js` `D3.js` `TradingView Charting Library` `Real-time Dashboards` `WebSocket Data Feeds`
+
+**Backend**
+`Node.js` `NestJS` `Express.js` `REST APIs` `WebSocket` `Supabase Edge Functions`
+
+**Auth & Security**
+`JWT` `OAuth2` `2FA` `Passkeys` `HMAC-SHA256 Webhook Verification` `Role-based Routing`
+
+**SaaS & Payments**
+`SaaS Product Development` `Cashfree` `Plaid` `Supabase` `Multi-tenant Architecture`
+
+**DevOps & Infrastructure**
+`GitHub Actions` `AWS S3 + CloudFront` `Docker` `Nginx` `DigitalOcean` `Vercel` `Linux` `WebAssembly`
+
+**Databases**
+`MongoDB` `PostgreSQL` `Supabase` `SQLite` `IndexedDB`
+
+---
+
+## 📬 Let's Talk
+
+<a href="https://linkedin.com/in/muhammed-asraf"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ashrafp216@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://peerhop.in"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+📍 Calicut, Kerala, India &nbsp;|&nbsp; 📱 +91 8086519792
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+
+</div>
