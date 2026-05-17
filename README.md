@@ -1,12 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Muhammed%20Asraf&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=React%20%2F%20Next.js%20Frontend%20Developer&descAlignY=75&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header" width="100%"/>
 
-</div>
+# Muhammed Asraf
 
-<div align="center">
-  <h3>React / Next.js Frontend Developer</h3>
-  <p><em>Calicut, Kerala, India &nbsp;·&nbsp; <a href="mailto:ashrafp216@gmail.com">ashrafp216@gmail.com</a> &nbsp;·&nbsp; +91 8086519792</em></p>
+### React / Next.js Frontend Developer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammed-asraf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-peerhop.in-black?style=flat-square&logo=vercel)](https://peerhop.in)
+[![GitHub](https://img.shields.io/badge/GitHub-ashrafbinahmad-181717?style=flat-square&logo=github)](https://github.com/ashrafbinahmad)
+[![Email](https://img.shields.io/badge/Email-ashrafp216@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ashrafp216@gmail.com)
+
+📍 Calicut, Kerala, India
+
 </div>
 
 <br/>
@@ -89,8 +95,6 @@ Frontend developer with **3+ years** of production experience shipping Next.js a
 <a href="https://linkedin.com/in/muhammed-asraf"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:ashrafp216@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://peerhop.in"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-
-📍 Calicut, Kerala, India &nbsp;|&nbsp; 📱 +91 8086519792
 
 ---
 
