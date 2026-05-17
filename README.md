@@ -1,7 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Muhammed%20Asraf&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=React%20%2F%20Next.js%20Frontend%20Developer&descAlignY=75&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Muhammed%20Asraf&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=React%20%2F%20Next.js%20Frontend%20Developer&descAlignY=75&descColor=ffffff" width="100%"/>
 
+</div>
+
+<div align="center">
+  <h3>React / Next.js Frontend Developer</h3>
+  <p><em>Calicut, Kerala, India &nbsp;·&nbsp; <a href="mailto:ashrafp216@gmail.com">ashrafp216@gmail.com</a> &nbsp;·&nbsp; +91 8086519792</em></p>
 </div>
 
 <br/>
